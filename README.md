@@ -7,3 +7,6 @@ When a 32-bit block is to be verified, then the following XOR math is performed 
 
 ![](https://github.com/eugenedakin/LRC-2-DParityCheck/blob/main/ManualCalculation.png)
 
+Below is a screen grab of the running Xojo program which contains the LRCcalculation method.
+
+![](https://github.com/eugenedakin/LRC-2-DParityCheck/blob/main/LRCScreenGrab.png)
